@@ -1,0 +1,11 @@
+{
+  "api_key": "",
+  "wake_word": "jarvis",
+  "volume": 80,
+  "whisper_size": "tiny",
+  "tts_voice": "en-US-ChristopherNeural",
+  "backend": "ollama",
+  "ollama_model": "qwen2.5:3b",
+  "gemini_model": "gemini-2.5-flash",
+  "ollama_url": "http://localhost:11434"
+}
